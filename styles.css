@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: lime;
+    font-family: 'Courier New', monospace;
+    text-align: center;
+}
+
+h1 {
+    color: yellow;
+}
+
+img {
+    border: 5px solid lime;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul {
+    text-align: left;
+    display: inline-block;
+    font-size: 18px;
+}
+
+p {
+    font-size: 20px;
+    padding: 10px;
+}
